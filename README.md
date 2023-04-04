@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+A react web app which can helps in text manipulation.
 
 https://s-dhangar.github.io/TEXTUTILS-React/
 
